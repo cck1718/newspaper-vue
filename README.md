@@ -1,7 +1,7 @@
 # newspaper-vue
 
 
-newspaper前端代码
+newspaper前端代码 vue2
 
 
 ```
