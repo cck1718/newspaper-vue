@@ -1,2 +1,9 @@
 # newspaper-vue
-newspaper-vue 前端实现
+
+```
+npm install
+```
+
+```
+npm run dev
+```
